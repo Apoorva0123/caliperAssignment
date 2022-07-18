@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    background-color: rgb(127,63,152);
+    height: 80px;
+    width: 100%;
+}
+.logo{
+    color: white;
+    font-size: 34px;
+    line-height: 80px;
+    padding: 0 50px;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 10px;
+}
+nav ul li a{
+    color: white
+}

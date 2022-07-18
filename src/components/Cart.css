@@ -1,0 +1,26 @@
+.cartCard{
+    width: 800px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.cartCard img{
+    width: 300px;
+}
+.cartWrapper{
+    margin: 20px;
+}
+.info{
+    vertical-align: middle;
+    padding: 20px 40px;
+}
+.cartCard button{
+    background-color: rgb(127,63,152);
+    color: white;
+    margin: 5px;
+}
+#check{
+    padding: 5px 10px;
+    margin: 10px 0 20px 0;
+}

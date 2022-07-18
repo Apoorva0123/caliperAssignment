@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "checked": false,
+      "title": "Broccoli",
+      "img": "http://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-broccoli-green-imported-vegetable-seeds-16969059795084.jpg?v=1634203193",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "title": "Baby Spinach",
+      "img": "https://media.istockphoto.com/photos/baby-spinach-in-the-garden-picture-id121286472",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "title": "Cabbage",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_w_TaY-IYD2bw2_LNzoiDu4TmbGzU_i4fg&usqp=CAU",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "title": "Tomato",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVznWpcVMw1U8IDYubzMW_rKGsjj-_SiuMCQ&usqp=CAU",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "title": "Peas",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIcKTL64K1b_66HzuLdOfQvRAkz5BvzRRQig&usqp=CAU",
+      "price": 100
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "checked": false,
+      "title": "Baby Spinach",
+      "img": "https://media.istockphoto.com/photos/baby-spinach-in-the-garden-picture-id121286472",
+      "price": 100
+    },
+    {
+      "id": 1,
+      "checked": false,
+      "title": "Broccoli",
+      "img": "http://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-broccoli-green-imported-vegetable-seeds-16969059795084.jpg?v=1634203193",
+      "price": 100
+    }
+  ]
+}

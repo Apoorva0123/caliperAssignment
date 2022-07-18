@@ -1,0 +1,36 @@
+img{
+    height: 200px;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(127,63,152);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 2px 5px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
+.productWrapper{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3,1fr);
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.card{
+    width: 270px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 12px 3px;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
